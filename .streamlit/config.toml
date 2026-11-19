@@ -1,0 +1,8 @@
+# 앱 전체 기본 테마(어두운 대시보드). 사이드바·위젯 색을 CSS와 맞춥니다.
+[theme]
+base = "dark"
+primaryColor = "#4EA8FF"
+backgroundColor = "#0a0e1a"
+secondaryBackgroundColor = "#141b2e"
+textColor = "#E8EDF7"
+font = "sans serif"
